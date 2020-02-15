@@ -12,15 +12,19 @@ function App() {
   
       <Header />
 
-      <Message />
-
-      <Parent />
 
       <Greet name="Bruce">
         He is a Batman
       </Greet>
       <Greet name="Clark" />
       <Greet name="Diana" />
+
+
+      <Message />
+
+      <Parent />
+
+      
 
       <Footer />
 
